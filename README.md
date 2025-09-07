@@ -1,1 +1,2 @@
 # Planejamento de careira
+O texto apresenta uma pesquisa de vagas para desenvolvedor back-end com o objetivo de definir um plano de estudos. A análise mostra que as soft skills mais valorizadas são proatividade e trabalho em equipe com boa comunicação, enquanto as hard skills essenciais incluem domínio de bancos de dados (PostgreSQL) e Java, além de diferenciais como Ruby on Rails, Node.js e cloud (AWS). Conclui-se que, para se destacar, é necessário combinar conhecimentos técnicos sólidos com habilidades interpessoais.
